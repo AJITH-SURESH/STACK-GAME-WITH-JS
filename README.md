@@ -19,7 +19,7 @@ In this game, the player needs to stack blocks on top of each other. The blocks 
 
 - `index.html`: HTML file containing the game interface.
 - `style.css`: CSS file for styling the game interface.
-- `script.js`: JavaScript file containing the game logic and Three.js/Cannon.js integration.
+- `main.js`: JavaScript file containing the game logic and Three.js/Cannon.js integration.
 - `README.md`: This file, providing an overview of the project.
 
 ## How to Play
@@ -35,7 +35,7 @@ If you wish to modify or extend the game, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project directory in your preferred code editor.
-3. Make changes to the `script.js` file to modify the game logic.
+3. Make changes to the `main.js` file to modify the game logic.
 4. You can also adjust the styling by modifying the `style.css` file.
 5. Test your changes locally by opening `index.html` in a web browser.
 6. Commit your changes and push them to your GitHub repository.
@@ -44,8 +44,5 @@ If you wish to modify or extend the game, follow these steps:
 
 - **Three.js**: A 3D graphics library built on top of WebGL.
 - **Cannon.js**: A lightweight 3D physics engine.
-- **OpenAI**: Inspired by the community and the possibilities of AI.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
